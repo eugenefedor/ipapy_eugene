@@ -93,7 +93,7 @@ voiced    uvular            nasal consonant,0274
 #voiceless dental            sibilant-affricate consonant,???
 #voiced    dental            sibilant-affricate consonant,???
 voiceless alveolar          sibilant-affricate consonant,0074_0361_0073 0074_035C_0073 0074_0073 02A6
-voiced    alveolar          sibilant-affricate consonant,0064_0361_007A 0064_035C_007A 0064_007A 02A3
+#voiced    alveolar          sibilant-affricate consonant,0064_0361_007A 0064_035C_007A 0064_007A 02A3
 voiceless palato-alveolar   sibilant-affricate consonant,0074_0361_0283 0074_035C_0283 0074_0283 02A7
 voiced    palato-alveolar   sibilant-affricate consonant,0064_0361_0292 0064_035C_0292 0064_0292 02A4
 voiceless retroflex         sibilant-affricate consonant,0288_0361_0282 0288_035C_0282 0074_0361_0282 0074_035C_0282 0288_0282
@@ -125,7 +125,7 @@ voiced    palato-alveolar   non-sibilant-affricate consonant,0064_0320_0361_0279
 #voiced    alveolo-palatal   non-sibilant-affricate consonant,???
 voiceless palatal           non-sibilant-affricate consonant,0063_0361_00E7 0063_035C_00E7
 voiced    palatal           non-sibilant-affricate consonant,025F_0361_029D 025F_035C_029D
-voiceless velar             non-sibilant-affricate consonant,006B_0361_0078 006B_035C_0078 006B_0078
+#voiceless velar             non-sibilant-affricate consonant,006B_0361_0078 006B_035C_0078 006B_0078
 voiced    velar             non-sibilant-affricate consonant,0261_0361_0263 0261_035C_0263 0261_0263
 voiceless uvular            non-sibilant-affricate consonant,0071_0361_03C7 0071_035C_03C7 0071_03C7
 voiced    uvular            non-sibilant-affricate consonant,0262_0361_0281 0262_035C_0281 0262_0281
@@ -379,12 +379,12 @@ voiceless labio-palatal         approximant         consonant,0265_030A 006A_030
 voiced    labio-palatal         approximant         consonant,0265 006A_02B7
 voiced    alveolar              lateral-approximant velarized consonant,006C_02E0 006C_02E4 026B
 voiceless labio-velar           plosive             consonant,006B_0361_0070 006B_035C_0070 006B_0070
-voiced    labio-velar           plosive             consonant,0261_0361_0062 0261_035C_0062 0261_0062
+#voiced    labio-velar           plosive             consonant,0261_0361_0062 0261_035C_0062 0261_0062
 voiced    labio-velar           nasal               consonant,014B_0361_006D 014B_035C_006D 014B_006D
 voiceless palato-alveolo-velar  sibilant-fricative  consonant,0267
-voiceless labio-alveolar        plosive             consonant,0074_0361_0070 0074_035C_0070 0074_0070
-voiced    labio-alveolar        plosive             consonant,0064_0361_0062 0064_035C_0062 0064_0062
-voiced    labio-alveolar        nasal               consonant,006E_0361_006D 006E_035C_006D 006E_006D
+#voiceless labio-alveolar        plosive             consonant,0074_0361_0070 0074_035C_0070 0074_0070
+#voiced    labio-alveolar        plosive             consonant,0064_0361_0062 0064_035C_0062 0064_0062
+#voiced    labio-alveolar        nasal               consonant,006E_0361_006D 006E_035C_006D 006E_006D
 voiced    uvulo-pharyngeal      plosive             consonant,0071_0361_02A1 0071_035C_02A1
 
 
