@@ -93,7 +93,7 @@ voiced    uvular            nasal consonant,0274
 #voiceless dental            sibilant-affricate consonant,???
 #voiced    dental            sibilant-affricate consonant,???
 voiceless alveolar          sibilant-affricate consonant,0074_0361_0073 0074_035C_0073 0074_0073 02A6
-#voiced    alveolar          sibilant-affricate consonant,0064_0361_007A 0064_035C_007A 0064_007A 02A3
+voiced    alveolar          sibilant-affricate consonant,0064_0361_007A 0064_035C_007A 0064_007A 02A3
 voiceless palato-alveolar   sibilant-affricate consonant,0074_0361_0283 0074_035C_0283 0074_0283 02A7
 voiced    palato-alveolar   sibilant-affricate consonant,0064_0361_0292 0064_035C_0292 0064_0292 02A4
 voiceless retroflex         sibilant-affricate consonant,0288_0361_0282 0288_035C_0282 0074_0361_0282 0074_035C_0282 0288_0282
